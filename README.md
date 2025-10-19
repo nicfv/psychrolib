@@ -31,7 +31,7 @@ Examples on how to use PsychroLib in all the supported languages are described i
 - C and Fortran: clone the repository, and bundle according to your requirements.
 - VBA/Excel: download the ready-made spreadsheets from the [release tab](https://github.com/psychrometrics/psychrolib/releases).
 - R: from the [Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/package=psychrolib).
-- JavaScript: install package from the [npm repository](https://www.npmjs.com/package/psychrolib).
+- JavaScript: install package from the [npm repository](https://www.npmjs.com/package/psychrolib) using `npm i psychrolib` or by cloning the repository.
 
 
 ## How to cite
